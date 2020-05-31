@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/react_monster_roledex/static/css/main.911466dd.chunk.css",
+    "main.js": "/github.io/react_monster_roledex/static/js/main.2753f65b.chunk.js",
+    "main.js.map": "/github.io/react_monster_roledex/static/js/main.2753f65b.chunk.js.map",
+    "runtime-main.js": "/github.io/react_monster_roledex/static/js/runtime-main.f474fd94.js",
+    "runtime-main.js.map": "/github.io/react_monster_roledex/static/js/runtime-main.f474fd94.js.map",
+    "static/js/2.20d6cdc0.chunk.js": "/github.io/react_monster_roledex/static/js/2.20d6cdc0.chunk.js",
+    "static/js/2.20d6cdc0.chunk.js.map": "/github.io/react_monster_roledex/static/js/2.20d6cdc0.chunk.js.map",
+    "index.html": "/github.io/react_monster_roledex/index.html",
+    "precache-manifest.23d7e6c1e585fd53bf907eac11e1c47f.js": "/github.io/react_monster_roledex/precache-manifest.23d7e6c1e585fd53bf907eac11e1c47f.js",
+    "service-worker.js": "/github.io/react_monster_roledex/service-worker.js",
+    "static/css/main.911466dd.chunk.css.map": "/github.io/react_monster_roledex/static/css/main.911466dd.chunk.css.map",
+    "static/js/2.20d6cdc0.chunk.js.LICENSE.txt": "/github.io/react_monster_roledex/static/js/2.20d6cdc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f474fd94.js",
+    "static/js/2.20d6cdc0.chunk.js",
+    "static/css/main.911466dd.chunk.css",
+    "static/js/main.2753f65b.chunk.js"
+  ]
+}
